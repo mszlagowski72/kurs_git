@@ -1,4 +1,5 @@
 Karp 23.47
 Lin 2.50
 Leszcz 2.75
+Szczupak 86 cm
 
